@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		36156705273019CE00D2B031 /* View1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36156704273019CE00D2B031 /* View1.swift */; };
+		36156707273019D900D2B031 /* View2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36156706273019D900D2B031 /* View2.swift */; };
+		36156709273019E500D2B031 /* View3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36156708273019E500D2B031 /* View3.swift */; };
+		3615670B27301A1900D2B031 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3615670A27301A1900D2B031 /* Constants.swift */; };
+		3615670D27301A3900D2B031 /* LottieView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3615670C27301A3900D2B031 /* LottieView.swift */; };
+		3615671027301A6800D2B031 /* Lottie in Frameworks */ = {isa = PBXBuildFile; productRef = 3615670F27301A6800D2B031 /* Lottie */; };
+		3615671527301AC000D2B031 /* soundwave.json in Resources */ = {isa = PBXBuildFile; fileRef = 3615671127301AC000D2B031 /* soundwave.json */; };
+		3615671627301AC000D2B031 /* waveform.json in Resources */ = {isa = PBXBuildFile; fileRef = 3615671227301AC000D2B031 /* waveform.json */; };
+		3615671727301AC000D2B031 /* blender.json in Resources */ = {isa = PBXBuildFile; fileRef = 3615671327301AC000D2B031 /* blender.json */; };
+		3615671827301AC000D2B031 /* translator.json in Resources */ = {isa = PBXBuildFile; fileRef = 3615671427301AC000D2B031 /* translator.json */; };
 		36848AB5272F0E3D00A3FC9F /* UnmutifyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36848AB4272F0E3D00A3FC9F /* UnmutifyApp.swift */; };
 		36848AB7272F0E3D00A3FC9F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36848AB6272F0E3D00A3FC9F /* ContentView.swift */; };
 		36848AB9272F0E4300A3FC9F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 36848AB8272F0E4300A3FC9F /* Assets.xcassets */; };
@@ -14,6 +24,15 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		36156704273019CE00D2B031 /* View1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View1.swift; sourceTree = "<group>"; };
+		36156706273019D900D2B031 /* View2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View2.swift; sourceTree = "<group>"; };
+		36156708273019E500D2B031 /* View3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View3.swift; sourceTree = "<group>"; };
+		3615670A27301A1900D2B031 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		3615670C27301A3900D2B031 /* LottieView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LottieView.swift; sourceTree = "<group>"; };
+		3615671127301AC000D2B031 /* soundwave.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = soundwave.json; sourceTree = "<group>"; };
+		3615671227301AC000D2B031 /* waveform.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = waveform.json; sourceTree = "<group>"; };
+		3615671327301AC000D2B031 /* blender.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = blender.json; sourceTree = "<group>"; };
+		3615671427301AC000D2B031 /* translator.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = translator.json; sourceTree = "<group>"; };
 		36848AB1272F0E3D00A3FC9F /* Unmutify.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Unmutify.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		36848AB4272F0E3D00A3FC9F /* UnmutifyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnmutifyApp.swift; sourceTree = "<group>"; };
 		36848AB6272F0E3D00A3FC9F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -26,6 +45,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3615671027301A6800D2B031 /* Lottie in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -55,6 +75,15 @@
 				36848AB6272F0E3D00A3FC9F /* ContentView.swift */,
 				36848AB8272F0E4300A3FC9F /* Assets.xcassets */,
 				36848ABA272F0E4300A3FC9F /* Preview Content */,
+				36156704273019CE00D2B031 /* View1.swift */,
+				36156706273019D900D2B031 /* View2.swift */,
+				36156708273019E500D2B031 /* View3.swift */,
+				3615670A27301A1900D2B031 /* Constants.swift */,
+				3615670C27301A3900D2B031 /* LottieView.swift */,
+				3615671327301AC000D2B031 /* blender.json */,
+				3615671127301AC000D2B031 /* soundwave.json */,
+				3615671427301AC000D2B031 /* translator.json */,
+				3615671227301AC000D2B031 /* waveform.json */,
 			);
 			path = Unmutify;
 			sourceTree = "<group>";
@@ -83,6 +112,9 @@
 			dependencies = (
 			);
 			name = Unmutify;
+			packageProductDependencies = (
+				3615670F27301A6800D2B031 /* Lottie */,
+			);
 			productName = Unmutify;
 			productReference = 36848AB1272F0E3D00A3FC9F /* Unmutify.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +143,9 @@
 				Base,
 			);
 			mainGroup = 36848AA8272F0E3C00A3FC9F;
+			packageReferences = (
+				3615670E27301A6800D2B031 /* XCRemoteSwiftPackageReference "lottie-ios" */,
+			);
 			productRefGroup = 36848AB2272F0E3D00A3FC9F /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -125,8 +160,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3615671727301AC000D2B031 /* blender.json in Resources */,
+				3615671827301AC000D2B031 /* translator.json in Resources */,
+				3615671627301AC000D2B031 /* waveform.json in Resources */,
 				36848ABC272F0E4300A3FC9F /* Preview Assets.xcassets in Resources */,
 				36848AB9272F0E4300A3FC9F /* Assets.xcassets in Resources */,
+				3615671527301AC000D2B031 /* soundwave.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,7 +177,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				36848AB7272F0E3D00A3FC9F /* ContentView.swift in Sources */,
+				36156709273019E500D2B031 /* View3.swift in Sources */,
+				36156705273019CE00D2B031 /* View1.swift in Sources */,
 				36848AB5272F0E3D00A3FC9F /* UnmutifyApp.swift in Sources */,
+				3615670D27301A3900D2B031 /* LottieView.swift in Sources */,
+				36156707273019D900D2B031 /* View2.swift in Sources */,
+				3615670B27301A1900D2B031 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -341,6 +385,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		3615670E27301A6800D2B031 /* XCRemoteSwiftPackageReference "lottie-ios" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/airbnb/lottie-ios";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		3615670F27301A6800D2B031 /* Lottie */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 3615670E27301A6800D2B031 /* XCRemoteSwiftPackageReference "lottie-ios" */;
+			productName = Lottie;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 36848AA9272F0E3C00A3FC9F /* Project object */;
 }
