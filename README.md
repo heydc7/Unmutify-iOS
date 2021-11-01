@@ -5,7 +5,6 @@ Helping mute people to talk
 
 # Important Links
 1. [Demo Video](https://youtu.be/hs0nCrzd2AM)
-2. [Devpost](https://devpost.com/software/x-translator)
 
 ## Problem Statement
 - Many people are unable to talk due to their disabilities & many people are mute inborn
